@@ -45,6 +45,8 @@ SpfPhp::autoRender();
 
 ### [Click here for further documentation](//github.com/Rehike/SpfPhp/wiki)
 
+### [See an example project](//github.com/YukisCoffee/spfphp-example)
+
 # Acknowledgements
 
 SpfPhp makes use of the following open-source software:
