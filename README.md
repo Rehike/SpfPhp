@@ -1,3 +1,9 @@
+# Deprecated
+
+SpfPhp was mostly a Rehike-specific hack that should have been worked around a long time ago. For more efficient performance, this project will be deprecated and Rehike will move away from it in the future.
+
+If you are a third-party user of the SpfPhp library, then feel free to make a fork and continue maintaining it.
+
 # SpfPhp
 
 A PHP library that parses and transforms HTML into the JSON required by YouTube's [SPF.js](//github.com/youtube/spfjs).
